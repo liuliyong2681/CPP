@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/CPP/MYFIRST_PROJECT/build",
+  "command": "C:\\PROGRA~1\\CODEBL~1\\MinGW\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\my_cmake_swap.dir\\main.cpp.obj -c D:\\CPP\\MYFIRST_PROJECT\\main.cpp",
+  "file": "D:/CPP/MYFIRST_PROJECT/main.cpp"
+},
+{
+  "directory": "D:/CPP/MYFIRST_PROJECT/build",
+  "command": "C:\\PROGRA~1\\CODEBL~1\\MinGW\\bin\\X86_64~2.EXE   -g -o CMakeFiles\\my_cmake_swap.dir\\swap.cpp.obj -c D:\\CPP\\MYFIRST_PROJECT\\swap.cpp",
+  "file": "D:/CPP/MYFIRST_PROJECT/swap.cpp"
+}
+]
